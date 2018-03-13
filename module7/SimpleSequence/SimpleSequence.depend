@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508160541 source:d:\cursuri vu\computer programming\module7\simplesequence\introw.cpp
+	<iostream>
+	<IntRow.h>
+
+1508159501 d:\cursuri vu\computer programming\module7\simplesequence\introw.h
+
+1508160561 source:d:\cursuri vu\computer programming\module7\simplesequence\main.cpp
+	<iostream>
+	"IntRow.h"
+

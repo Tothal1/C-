@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1507557680 source:d:\cursuri vu\computer programming\module6\bank\backaccount.cpp
+
+1507899374 source:d:\cursuri vu\computer programming\module6\bank\error.cpp
+	"Error.h"
+
+1507899376 d:\cursuri vu\computer programming\module6\bank\error.h
+	<string>
+	<iostream>
+
+1507898996 source:d:\cursuri vu\computer programming\module6\bank\bankaccount.cpp
+	"bankaccount.h"
+	<iostream>
+
+1507898977 d:\cursuri vu\computer programming\module6\bank\bankaccount.h
+	<string>
+
+1507899328 source:d:\cursuri vu\computer programming\module6\bank\main.cpp
+	<iostream>
+	<fstream>
+	"Error.h"
+	"bankaccount.h"
+	"bank.h"
+	<vector>
+
+1507898815 source:d:\cursuri vu\computer programming\module6\bank\bank.cpp
+	"bank.h"
+	"Error.h"
+
+1507899551 d:\cursuri vu\computer programming\module6\bank\bank.h
+	<string>
+	<vector>
+	"bankaccount.h"
+

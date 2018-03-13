@@ -1,0 +1,17 @@
+remove Thilo
+add Thilo P322
+add Matty F153
+list
+move Matty T427
+list
+find Thilo
+move Thilo T427
+list
+clear
+list
+add Jorg T437
+add Femke T447
+remove Jorg
+list
+exit
+

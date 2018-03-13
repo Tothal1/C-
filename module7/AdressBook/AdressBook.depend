@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1508492680 source:d:\cursuri vu\computer programming\module7\adressbook\adressbook.cpp
+	"AdressBook.h"
+	<iostream>
+
+1508232819 d:\cursuri vu\computer programming\module7\adressbook\adressbook.h
+	"Entry.h"
+
+1508235500 d:\cursuri vu\computer programming\module7\adressbook\entry.h
+	<string>
+
+1508235553 source:d:\cursuri vu\computer programming\module7\adressbook\entry.cpp
+	"Entry.h"
+	<iostream>
+
+1508491559 source:d:\cursuri vu\computer programming\module7\adressbook\main.cpp
+	<iostream>
+	"AdressBook.h"
+
